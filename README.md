@@ -1,0 +1,1 @@
+Some projects to learn zig. Based on the book https://pedropark99.github.io/zig-book/ .
